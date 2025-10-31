@@ -58,7 +58,7 @@ your_dataset_folder/
    Option 1 - Clone the repository (Recommended):
    ```
    git clone https://github.com/soumyadbanikquidich/cvat_mask_annotation_check.git
-   cd cvat_mask_verify
+   cd cvat_mask_annotation_check
    ```
 
    Option 2 - If git is not installed or clone doesn't work:
@@ -82,7 +82,7 @@ your_dataset_folder/
 
 4. Navigate to your tool's directory (example):
    ```
-   cd C:\Users\YourUsername\Documents\cvat_mask_verify
+   cd C:\Users\YourUsername\Documents\cvat_mask_annotation_check
    ```
    (Replace `YourUsername` with your actual Windows username)
 
