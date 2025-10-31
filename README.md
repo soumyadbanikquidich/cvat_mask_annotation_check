@@ -57,7 +57,7 @@ your_dataset_folder/
 
    Option 1 - Clone the repository (Recommended):
    ```
-   git clone https://github.com/yourusername/cvat_mask_verify.git
+   git clone https://github.com/soumyadbanikquidich/cvat_mask_annotation_check.git
    cd cvat_mask_verify
    ```
 
